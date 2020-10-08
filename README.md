@@ -1,3 +1,3 @@
 # network
 
-Its solved assignment problems of 7th semester Btech CSE network Lab in Cochin University
+Its solved assignment problems of 7th semester Btech CSE network Lab in Cochin University. These codes include setting up a local network server using tcp and udp connections, chatrooms etc...
